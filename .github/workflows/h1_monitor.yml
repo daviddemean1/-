@@ -29,7 +29,7 @@ jobs:
           H1_USERNAME: ${{ secrets.H1_USERNAME }}
           H1_PASSWORD: ${{ secrets.H1_PASSWORD }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python h1_monitor.py
+        run: python h1_advanced.py
 
       - name: Commit and Push Updated DB
         run: |
