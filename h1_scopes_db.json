@@ -6854,7 +6854,6 @@
             "devadmin.deere.com",
             "leadmanagement.tal.deere.com",
             "pdi.deere.com",
-            "create-organization-app.deere.com",
             "horizon.deere.com",
             "www.deere.com.au",
             "cicqual.tal.deere.com",
@@ -7361,7 +7360,8 @@
             "_dmarc.wginsight.com.cn",
             "_dmarc.wirbak.com",
             "_dmarc.wirtgen-auf-der-bauma.com",
-            "_dmarc.wirtgen-auf-der-bauma.de"
+            "_dmarc.wirtgen-auf-der-bauma.de",
+            "_dmarc.wirtgen-augsburg.de"
         ]
     },
     "8x8-bounty": {
@@ -19400,7 +19400,6 @@
             "auth.eshop-henkel-adhesives.cn",
             "base-qa.henkel-consumer-brands.cn",
             "chatbotdatacon.wechat-henkel-adhesives.cn",
-            "console.ar.magic-mirror.cn",
             "docdownload-webinar.tryloctite.cn",
             "fc-qa.henkel-consumer-brands.cn",
             "fc.henkel-consumer-brands.cn",
@@ -19562,9 +19561,7 @@
             "*.ponal.sk",
             "*.henkelgroup.net",
             "henkeltest.service-now.com",
-            "*.henkel.cn",
             "*.cs-nri.com",
-            "www.joico.com/",
             "smc-analyzer.henkel-consumer-brands.cn",
             "*.henkel-adhesives.cn",
             "*.teroson-bautechnik.com",
@@ -19606,13 +19603,10 @@
             "*.schwarzkopfclub.com.cn",
             "*.schwarzkopf.de",
             "*.henkel.com",
-            "*.pravana.com",
             "tpm-qa.henkel-consumer-brands.cn",
             "*.askteamclean.*",
             "api.mini.magic-mirror.cn",
             "*.labelleadresse.com",
-            "*.henkel-consumer-brands.cn",
-            "test-factory.qr-henkel-a.cn",
             "*.loctite.com",
             "*.silan.*",
             "dmeops.schwarzkopfclub.com.cn",
@@ -19625,7 +19619,14 @@
             "*.raqn.io",
             "*.wechat-henkel-adhesives.cn",
             "uat.www.shrndconsumer.henkel-consumer-brands.cn",
-            "*.colorsmithco.ca"
+            "*.henkel.cn",
+            "*.colorsmithco.ca",
+            "*.pravana.com",
+            "console.ar.magic-mirror.cn",
+            "*.henkel-consumer-brands.cn",
+            "www.joico.com/",
+            "*.henkeldx.com",
+            "test-factory.qr-henkel-a.cn"
         ]
     },
     "mueller_water_products_vdp": {
