@@ -6535,9 +6535,7 @@
             "fc-qual-casemanagement-financeconnect.deere.com",
             "casemanagement-financeconnect.deere.com",
             "acc.kreiselelectric.com",
-            "file.kreiselelectric.com",
             "terms.kreiselelectric.com",
-            "www.mail.kreiselelectric.com",
             "developer-api-portal.expertconnect.deere.com",
             "customer-identity-qual.deere.com",
             "customer-identity-cert.deere.com",
@@ -7374,7 +7372,9 @@
             "_dmarc.wirtgen-china.net",
             "_dmarc.wirtgen-devices.com",
             "_dmarc.wirtgen-external.com",
-            "_dmarc.wirtgen-group-at-bauma.com"
+            "_dmarc.wirtgen-group-at-bauma.com",
+            "_dmarc.wirtgen-group-at-bauma.de",
+            "_dmarc.wirtgen-group-auf-der-bauma.com"
         ]
     },
     "8x8-bounty": {
@@ -13829,7 +13829,6 @@
             "gw.smartsensor.abb.com.cn",
             "help.service.motion.abb.com.cn",
             "hhj.cniib-supplysynergy.abb.com.cn",
-            "hr.drives.abb.com.cn",
             "hub.daas.abb.com.cn",
             "hub.service.evcharging.abb.com.cn",
             "hublite.service.evcharging.abb.com.cn",
@@ -14463,7 +14462,6 @@
             "oldpdc.abb.com",
             "om.abb.com",
             "onecare.motion.abb.com",
-            "online.abb.com",
             "online.cn.abb.com",
             "online.in.abb.com",
             "onlinetst.cn.abb.com",
@@ -14493,7 +14491,9 @@
             "oversea.qe231.genix.abb.com",
             "oversea.uat.genix.abb.com",
             "pa-windchill-plm.abb.com",
-            "pa.inside.abb.com"
+            "pa.inside.abb.com",
+            "packages.optifact.robotics.abb.com",
+            "packages.stg.optifact.robotics.abb.com"
         ]
     },
     "zabbix": {
