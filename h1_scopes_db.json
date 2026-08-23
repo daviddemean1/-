@@ -9970,7 +9970,6 @@
             "http://cie-appauth.fiservapps.com",
             "http://online.telecash.de",
             "http://online.firstdata.com",
-            "http://online-qa.firstdata.com",
             "http://connect-aus.fiservapp.com",
             "http://cat-connect-aus.fiservapp.com",
             "http://au-ssoca-cat.fiservapp.com",
@@ -10123,7 +10122,8 @@
             "dr-rownetv5.firstdataclients.com",
             "rownetv5.firstdataclients.com",
             "fraudprevention-co.fiservapp.com",
-            "fraudpreventiondr-co.fiservapp.com"
+            "fraudpreventiondr-co.fiservapp.com",
+            "fraudpreventionreports-co.fiservapp.com"
         ]
     },
     "pfizer": {
