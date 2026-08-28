@@ -14967,10 +14967,11 @@
     "okg": {
         "name": "OKG",
         "scopes": [
-            "*.oklink.com",
             "https://web3.okx.com/onchainos",
             "*.okg.com",
-            "*.okx.com"
+            "okx.ai",
+            "*.okx.com",
+            "*.oklink.com"
         ]
     },
     "redox_bbp": {
