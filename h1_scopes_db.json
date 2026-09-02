@@ -3150,7 +3150,8 @@
             "www.thecoalition.com",
             "help.thecoalition.com",
             "coalitioninc.com",
-            "api.thecoalition.com"
+            "api.thecoalition.com",
+            "app.wirespeed.co"
         ]
     },
     "affirm": {
@@ -19949,7 +19950,6 @@
         "name": "John Deere",
         "scopes": [
             "jdfy-cert.deere.com",
-            "advance.deere.com",
             "i3dhub.ghns-web-platform-r2-prod-standalone4.eu.e00.c01.johndeerecloud.com",
             "wwhui-legacy.channel-warranty-warehouse-devl-vpn2.us.e06.c01.johndeerecloud.com",
             "learn.harvestprofit.com",
@@ -19964,7 +19964,6 @@
             "ims.tcms.tal.deere.com",
             "shield.deere.com",
             "www.johndeereshop.com",
-            "preview.dig.deere.com",
             "dtfapi.deere.com",
             "measure.deere.com",
             "aommetrics.deere.com",
@@ -20025,8 +20024,6 @@
             "portalweb.bjd.deere.com",
             "gaia.deere.com",
             "midas.deere.com",
-            "apps.deere.com",
-            "achieve2.deere.com",
             "jdsn-tcs.deere.com",
             "suppliercompare.deere.com",
             "mbdviewer.deere.com",
@@ -20038,14 +20035,11 @@
             "dealer-translations.deere.com",
             "api.contest.deere.com",
             "jdviv.deere.com",
-            "devadmin.deere.com",
             "leadmanagement.tal.deere.com",
             "pdi.deere.com",
             "horizon.deere.com",
             "www.deere.com.au",
             "cicqual.tal.deere.com",
-            "jdparts.deere.com",
-            "connect2.deere.com",
             "learning.deere.com",
             "financecenter.deere.com",
             "conecta.agrishow.deere.com.br",
@@ -20119,7 +20113,6 @@
             "wap.unimil.com.br",
             "webmail.unimil.com.br",
             "lyncdiscover.pla.com.br",
-            "devadminqa.deere.com",
             "atrium.deere.com",
             "fc-devl-casemanagement-financeconnect.deere.com",
             "fc-qual-casemanagement-financeconnect.deere.com",
@@ -20795,7 +20788,15 @@
             "_dmarc.wirtgenswedenab.se",
             "_dmarc.witos.com",
             "_dmarc.witos.de",
-            "_dmarc.witos.info"
+            "_dmarc.witos.info",
+            "_dmarc.witos.net",
+            "autodiscover.ciber.com.br",
+            "autodiscover.die-wirtgen-group-auf-der-bauma.com",
+            "autodiscover.hamm-external.eu",
+            "autodiscover.wirtgen-external.com",
+            "benninghoven.de",
+            "benninghoven.ro",
+            "ciber.com.br"
         ]
     }
 }
