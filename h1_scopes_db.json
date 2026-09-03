@@ -9403,7 +9403,6 @@
             "gw-sea.esailcloud.com",
             "gw.esailcloud.com",
             "public.esailcloud.com",
-            "*.hxfivelaunch.com",
             "sdpgw01.cymycloud.com",
             "gw01.cymycloud.com",
             "gw02.cymycloud.com",
@@ -9988,7 +9987,8 @@
             "wlspfser.is.northropgrumman.com",
             "wlspfser.northropgrumman.com",
             "www.ceosslibrary.northropgrumman.com",
-            "www.iss.northropgrumman.com"
+            "www.iss.northropgrumman.com",
+            "www.lcs.ds.northropgrumman.com"
         ]
     },
     "mtb": {
