@@ -258,9 +258,9 @@
             "world.hey.com",
             "*.highrisehq.com",
             "*.basecamphq.com",
-            "fizzy.do",
-            "launchpad.37signals.com",
             "*.hey.com",
+            "launchpad.37signals.com",
+            "app.fizzy.do",
             "app.basecamp.com"
         ]
     },
