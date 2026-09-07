@@ -2147,19 +2147,20 @@
     "semrush": {
         "name": "Semrush",
         "scopes": [
-            "*.berush.com",
             "advocates.semrush.com",
             "email.semrush.com",
             "*.seoab.io",
             "*.scatec.io",
             "workflows.semrush.com",
             "investors.semrush.com",
-            "*.semrush.net",
             "*.seoquake.com",
             "*.sellzone.com",
-            "*.prowly.com",
+            "*.berush.com",
+            "*.semrush.net",
             "*.myinsights.io",
-            "*.semrush.com"
+            "*.prowly.com",
+            "*.semrush.com",
+            "www.semrush.com"
         ]
     },
     "deptofdefense": {
