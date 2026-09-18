@@ -20923,6 +20923,9 @@
     },
     "common_codes": {
         "name": "d-you App & German EUDI Wallet Ecosystem",
-        "scopes": []
+        "scopes": [
+            "youniqx.com",
+            "bundesdruckerei.de"
+        ]
     }
 }
