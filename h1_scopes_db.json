@@ -13076,7 +13076,6 @@
             "electrical-distribution-control-system.abb.com.cn",
             "electricalsystems.mysitecondition.abb.com.cn",
             "electrification.iot.ability.abb.com.cn",
-            "electronic-invoice.abb.com.cn",
             "env01.abilitylite01.abb.com.cn",
             "env01.abilitylite03.abb.com.cn",
             "env01.ingestion.abilitylite01.abb.com.cn",
@@ -13759,7 +13758,8 @@
             "performance-optimization.hoist.ability.abb.com",
             "performance-optimization.ventilation.ability.abb.com",
             "pges-168-62-184-185.e.abb.com",
-            "ph.inside.abb.com"
+            "ph.inside.abb.com",
+            "pi.industrysolutions-ims.abb.com"
         ]
     },
     "zabbix": {
