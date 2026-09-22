@@ -13342,7 +13342,6 @@
             "containers.electrificationtools.abb.com",
             "conteudo.loja.br.abb.com",
             "contractor-safety.ch.abb.com",
-            "controltouch.eu.mybuildings.abb.com",
             "controltouch.mybuildings.abb.com",
             "coordinatorspresentation.events.abb.com",
             "corporate-event.abb.com",
@@ -13810,7 +13809,8 @@
             "pges-168-62-184-185.e.abb.com",
             "ph.inside.abb.com",
             "pi.industrysolutions-ims.abb.com",
-            "pilot.genix.abb.com"
+            "pilot.genix.abb.com",
+            "pilot1.genix.abb.com"
         ]
     },
     "zabbix": {
