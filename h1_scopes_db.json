@@ -573,9 +573,10 @@
             "drive.uber.com",
             "uber.onelogin.com",
             "scaledsolutions*.uber.com",
-            "merchants.ubereats.com",
             "central-beta.uber.com",
-            "uber.com"
+            "merchants.ubereats.com",
+            "uber.com",
+            "adsacademy.uber.com"
         ]
     },
     "adobe": {
