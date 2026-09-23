@@ -9615,7 +9615,6 @@
             "https://aus-gp.signaturescience.com",
             "https://blade.signaturescience.com",
             "https://cho-gp.signaturescience.com",
-            "https://erequester.signaturescience.com",
             "https://ftp.signaturescience.com",
             "https://jontest.signaturescience.com",
             "https://bids.acqcenter.com",
@@ -10079,7 +10078,8 @@
             "www.lcs.ds.northropgrumman.com",
             "www.staffup.ms.northropgrumman.com",
             "awtr.ngc.com",
-            "awtrdev.ngc.com"
+            "awtrdev.ngc.com",
+            "awtrplte.ngc.com"
         ]
     },
     "mtb": {
@@ -21004,6 +21004,27 @@
             "vercel.com",
             "vercel.app",
             "*.vercel.com"
+        ]
+    },
+    "nebius_ai_vdp": {
+        "name": "Nebius AI Vulnerability Disclosure",
+        "scopes": [
+            "api.nebius.cloud",
+            "tokenfactory.nebius.com",
+            "auth.tokenfactory.nebius.com",
+            "docs.tokenfactory.nebius.com",
+            "console.nebius.com",
+            "console.eu.nebius.com",
+            "auth.nebius.com",
+            "sts.nebius.com",
+            "docs.nebius.com",
+            "status.nebius.com",
+            "assets.nebius.com",
+            "static.nebius.com",
+            "nebius.com",
+            "careers.nebius.com",
+            "dev.nebius.com",
+            "api.tokenfactory.nebius.com"
         ]
     }
 }
