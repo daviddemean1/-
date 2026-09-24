@@ -21027,5 +21027,13 @@
             "dev.nebius.com",
             "api.tokenfactory.nebius.com"
         ]
+    },
+    "kaltura": {
+        "name": "Kaltura",
+        "scopes": [
+            "eventplatform.kaltura.com",
+            "mediaspace.kaltura.com",
+            "kmc.kaltura.com"
+        ]
     }
 }
