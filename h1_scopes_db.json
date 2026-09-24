@@ -10075,11 +10075,11 @@
             "wlspfser.northropgrumman.com",
             "www.ceosslibrary.northropgrumman.com",
             "www.iss.northropgrumman.com",
-            "www.lcs.ds.northropgrumman.com",
             "www.staffup.ms.northropgrumman.com",
             "awtr.ngc.com",
             "awtrdev.ngc.com",
-            "awtrplte.ngc.com"
+            "awtrplte.ngc.com",
+            "azurerelay1.ngc.com"
         ]
     },
     "mtb": {
