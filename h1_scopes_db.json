@@ -20178,7 +20178,6 @@
             "lyncdiscover.surepointag.com",
             "qd.surepointag.com",
             "sip.surepointag.com",
-            "site.staging.marksman.surepointag.com",
             "staging.core.surepointag.com",
             "store.surepointag.com",
             "support.surepointag.com",
@@ -20972,7 +20971,8 @@
             "_dmarc.wirtgen.bg",
             "_dmarc.wirtgen.cl",
             "_dmarc.wirtgen.co.jp",
-            "_dmarc.wirtgen.co.nz"
+            "_dmarc.wirtgen.co.nz",
+            "_dmarc.wirtgen.co.th"
         ]
     },
     "semtech": {
