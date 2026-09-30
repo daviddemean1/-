@@ -13786,7 +13786,6 @@
             "ng.inside.abb.com",
             "niessen.customizing.mybuildings.abb.com",
             "niessenplasticinjection.es.abb.com",
-            "nizke-napeti.cz.abb.com",
             "nl.abb.com",
             "no.abb.com",
             "no.inside.abb.com",
@@ -13852,7 +13851,8 @@
             "pilot1.genix.abb.com",
             "pilot2.genix.abb.com",
             "pk.abb.com",
-            "pki.abb.com"
+            "pki.abb.com",
+            "pklhe5zgw0.pk.abb.com"
         ]
     },
     "zabbix": {
@@ -20309,7 +20309,6 @@
             "mail.kingagro.com",
             "sip.kingagro.com",
             "www.kingagro.es",
-            "jdisonline.com",
             "jdisonsite.com",
             "starfirenetwork.com",
             "anubhuti-associates-nlb-323ffbc5be9c6943.elb.ap-south-1.amazonaws.com",
@@ -20363,7 +20362,6 @@
             "webmail.unimil.com.br",
             "lyncdiscover.pla.com.br",
             "atrium.deere.com",
-            "agrisync.com",
             "ftp.monosem-inc.com",
             "ftp.phpmv.monosem-inc.com",
             "ftp.phpmyvisites.monosem-inc.com",
@@ -20422,7 +20420,6 @@
             "https://bantotal-ar-cert.deere.com/bantotal/servlet/com.dlya.bantotal.hwelcome",
             "bantotal-ar-cert.deere.com",
             "surepointag.com",
-            "blueriver.ai",
             "ftp.bearflagrobotics.com",
             "static.bearflagrobotics.com",
             "pay-qual.deere.com",
@@ -20498,10 +20495,8 @@
             "www.thevirtualsuperintendent.com",
             "myvirtualsuper.com.au",
             "thevirtualsuperintendent.com.au",
-            "virtualsuperintendent.com.au",
             "cloudscapelabs.com",
             "thevirtualsuperintendent.com",
-            "*.thevirtualsuperintendent.com.au",
             "cvml-primaries.deere.com",
             "r3p.johndeerepanel.com",
             "http://customperformance.deere.com/services/packages/gsix/customer",
@@ -20976,7 +20971,12 @@
             "_dmarc.wirtgen.co.th",
             "_dmarc.wirtgen.co.uk",
             "_dmarc.wirtgen.co.za",
-            "_dmarc.wirtgen.com"
+            "_dmarc.wirtgen.com",
+            "_dmarc.wirtgen.com.au",
+            "_dmarc.wirtgen.com.br",
+            "_dmarc.wirtgen.com.cn",
+            "_dmarc.wirtgen.com.hk",
+            "_dmarc.wirtgen.com.my"
         ]
     },
     "semtech": {
