@@ -20336,7 +20336,6 @@
             "sip.surepointag.com",
             "staging.core.surepointag.com",
             "store.surepointag.com",
-            "support.surepointag.com",
             "toolbox.surepointag.com",
             "vpn.surepointag.com",
             "webapp-staging.spark.ai",
@@ -21128,7 +21127,8 @@
             "_dmarc.wirtgen.com.my",
             "_dmarc.wirtgen.com.sg",
             "_dmarc.wirtgen.com.tw",
-            "_dmarc.wirtgen.com.ua"
+            "_dmarc.wirtgen.com.ua",
+            "_dmarc.wirtgen.cz"
         ]
     },
     "semtech": {
