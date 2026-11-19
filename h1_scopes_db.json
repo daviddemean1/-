@@ -12351,8 +12351,9 @@
     "alohi": {
         "name": "Alohi",
         "scopes": [
-            "*.sign.plus",
             "www.alohi.com",
+            "*.sign.plus",
+            "*.dial.plus",
             "*.fax.plus"
         ]
     },
